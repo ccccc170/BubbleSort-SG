@@ -1,3 +1,5 @@
+package com.test;
+
 import com.sparta.BubbleSort;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
